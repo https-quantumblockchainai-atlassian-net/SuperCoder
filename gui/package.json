@@ -33,7 +33,7 @@
     "react-transition-group": "^4.4.5",
     "sharp": "^0.33.4",
     "socket.io-client": "^2.5.0",
-    "styled-components": "^6.1.11"
+    "styled-components": "^6.1.12"
   },
   "devDependencies": {
     "@types/cookie": "^0.6.0",
