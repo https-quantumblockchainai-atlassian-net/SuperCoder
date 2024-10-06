@@ -14,7 +14,7 @@
     "@nextui-org/react": "^2.3.6",
     "axios": "^1.7.2",
     "babel-plugin-styled-components": "^2.1.4",
-    "cookie": "^0.6.0",
+    "cookie": "^0.7.0",
     "diff2html": "^3.4.48",
     "framer-motion": "^11.2.4",
     "install": "^0.13.0",
