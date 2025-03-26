@@ -12,7 +12,7 @@
   "dependencies": {
     "@monaco-editor/react": "^4.6.0",
     "@nextui-org/react": "^2.3.6",
-    "axios": "^1.7.2",
+    "axios": "^1.8.3",
     "babel-plugin-styled-components": "^2.1.4",
     "cookie": "^0.6.0",
     "diff2html": "^3.4.48",
@@ -20,7 +20,7 @@
     "install": "^0.13.0",
     "js-cookie": "^3.0.5",
     "monaco-editor": "^0.50.0",
-    "next": "14.2.2",
+    "next": "14.2.25",
     "react": "^18",
     "react-beautiful-dnd": "^13.1.1",
     "react-diff-view": "^3.2.1",
