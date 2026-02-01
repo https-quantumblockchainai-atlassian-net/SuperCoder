@@ -5,6 +5,7 @@
   <a href="https://superagi.com//#gh-dark-mode-only">
     <img src="https://superagi.com/wp-content/uploads/2024/07/SuperCoder-light.png" width="318px" alt="SuperCoder Light logo" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FSuperCoder?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FSuperCoder.svg?type=shield"/></a>
 
 </p>
 
@@ -157,3 +158,7 @@ If you have questions or encounter issues, please don't hesitate to [create a ne
 
 ### ⚠️ Under Development!
 This project is under active development and may still have issues. We appreciate your understanding and patience. If you encounter any problems, please check the open issues first. If your issue is not listed, kindly create a new issue detailing the error or problem you experienced. Thank you for your support!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FSuperCoder.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2FSuperCoder?ref=badge_large)
